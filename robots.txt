@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /admin/
+Disallow: /wp-admin/
+
+Sitemap: https://fumigacionesgemar.com/sitemap.xml
